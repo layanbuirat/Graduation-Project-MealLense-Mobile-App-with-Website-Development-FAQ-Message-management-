@@ -11,7 +11,7 @@
   
   **Bridging the gap between food discovery and meal preparation with cutting-edge AI**
 
-  [📱 Download App](#-installation--setup) • [🌐 Web Demo](#-web-platform) • [📄 Documentation](#-project-structure) • [🎥 Demo Videos](#-demo-videos)
+  [📱 Download App](#-installation--setup) • [🌐 Web Platform](#-web-platform) • [📄 Documentation](#-project-structure) • [🎥 Demo Gallery](#-demo-gallery)
 
 </div>
 
@@ -24,13 +24,13 @@
 - [🛠️ Technology Stack](#️-technology-stack)
 - [📁 Project Structure](#-project-structure)
 - [🚀 Installation & Setup](#-installation--setup)
-- [🎥 Demo Videos](#-demo-videos)
+- [🎥 Demo Gallery](#-demo-gallery)
+- [🖼️ UI/UX Design Gallery](#-uiux-design-gallery)
 - [🤖 AI Assistant System](#-ai-assistant-system)
 - [🌐 Web Platform](#-web-platform)
 - [📊 System Architecture](#-system-architecture)
 - [📈 Performance Metrics](#-performance-metrics)
 - [🔌 API Integration](#-api-integration)
-- [🎨 UI/UX Design](#-uiux-design)
 - [📅 Development Timeline](#-development-timeline)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
@@ -198,77 +198,22 @@ MealLense bridges this gap by offering:
 meallense/
 ├── 📱 lib/                           # Flutter Application
 │   ├── ai_assistant/                 # AI Assistant Module
-│   │   ├── models/                   # Chat & conversation models
-│   │   ├── providers/                 # AI state management
-│   │   ├── screens/                    # AI assistant UI
-│   │   ├── services/                    # Gemini API integration
-│   │   └── components/                      # Chat components
-│   ├── models/                              # Data Models
-│   │   ├── user_model.dart
-│   │   ├── recipe_model.dart
-│   │   ├── meal_model.dart
-│   │   └── feedback_model.dart
-│   ├── services/                         # API Services
-│   │   ├── auth_service.dart
-│   │   ├── azure_service.dart
-│   │   ├── spoonacular_service.dart
-│   │   └── firestore_service.dart
-│   ├── providers/                       # State Management
-│   │   ├── auth_provider.dart
-│   │   ├── meal_provider.dart
-│   │   └── theme_provider.dart
-│   ├── screens/                         # App Screens
-│   │   ├── auth/                        # Login, Signup
-│   │   ├── home/                        # Main dashboard
-│   │   ├── camera/                       # Photo capture
-│   │   ├── results/                       # Recipe display
-│   │   ├── profile/                       # User profile
-│   │   ├── history/                       # Meal history
-│   │   ├── favorites/                      # Saved recipes
-│   │   ├── admin/                          # Admin dashboard
-│   │   └── settings/                       # App settings
-│   ├── widgets/                           # Reusable Components
-│   │   ├── recipe_card.dart
-│   │   ├── loading_indicator.dart
-│   │   ├── custom_button.dart
-│   │   └── error_widget.dart
-│   └── main.dart                         # App Entry Point
-├── 🔥 firebase/                         # Firebase Configuration
-│   ├── firebase_options.dart
-│   ├── firestore.rules
-│   └── storage.rules
-├── 🤖 azure/                             # Azure Custom Vision
-│   ├── training_images/
-│   ├── model_export/
-│   └── prediction_config.dart
-├── 🌐 web/                               # Web Platform
-│   ├── admin-dashboard.html
-│   ├── index.html
-│   ├── faq.html
-│   ├── css/
-│   └── js/
-├── 📱 android/                           # Android Native
-├── 📱 ios/                               # iOS Native
-├── 📊 datasets/                          # Training Datasets
-│   ├── arabic_food_101/
-│   ├── food-101/
-│   └── custom_collected/
-├── 📄 docs/                              # Documentation
-│   ├── ENCS5300-Section2-Report.pdf
-│   └── API_Documentation.md
-├── 🎥 demo/                               # Demo Videos & Screenshots
-│   ├── Admin management localdatasets, feedback.gif
-│   ├── pease with meat.gif
-│   ├── Waraq enab.gif
-│   ├── Admin management FAQ & Massage from user.gif
-│   ├── History & favor manage user profile.gif
-│   ├── edit user profile & use help link of website Meal.gif
-│   └── demo Upload Lasagna recipe, Vegetable Pizza.gif
-├── 📋 Configuration Files
-│   ├── pubspec.yaml
-│   ├── .env
-│   ├── .gitignore
-│   └── README.md
+│   ├── models/                       # Data Models
+│   ├── services/                      # API Services
+│   ├── providers/                     # State Management
+│   ├── screens/                       # App Screens
+│   ├── widgets/                       # Reusable Components
+│   └── main.dart                      # App Entry Point
+├── 🔥 firebase/                       # Firebase Configuration
+├── 🤖 azure/                           # Azure Custom Vision
+├── 🌐 web/                             # Web Platform
+├── 📱 android/                         # Android Native
+├── 📱 ios/                             # iOS Native
+├── 📊 datasets/                        # Training Datasets
+├── 📄 docs/                            # Documentation
+├── 🎥 demo/                            # Demo Videos
+├── 🎨 UI_UX/                           # UI/UX Design Screenshots
+└── 📋 Configuration Files
 ```
 
 ---
@@ -287,8 +232,8 @@ meallense/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/meallense.git
-   cd meallense
+   git clone https://github.com/layanbuirat/Graduation-Project-MealLense-Mobile-App-with-Website-Development-FAQ-Message-management-.git
+   cd Graduation-Project-MealLense-Mobile-App-with-Website-Development-FAQ-Message-management-
    ```
 
 2. **Install Dependencies**
@@ -317,100 +262,382 @@ meallense/
    flutter run
    ```
 
-### Troubleshooting
+---
+
+## 🎥 Demo Gallery
+
+<div align="center">
+  
+### 📱 Application Demo Videos
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" colspan="2">
+      <h3>🛠️ Admin & Management Features</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h4>📊 Dataset Management & Feedback</h4>
+      <img src="demo/Admin%20management%20localdataset%2C%20feedback%20%26%20show%20user%20statistics.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>📁 Admin management localdataset, feedback & show user statistics.gif</sub>
+    </td>
+    <td width="50%" align="center">
+      <h4>❓ FAQ & Message Management</h4>
+      <img src="demo/Admin%20management%20FAQ%20%26%20Massage%20from%20users.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>📁 Admin management FAQ & Massage from users.gif</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>🍽️ Recipe & Meal Recognition</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <h4>🍖 Peas with Meat</h4>
+      <img src="demo/pease%20with%20meat.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>📁 pease with meat.gif</sub>
+    </td>
+    <td width="33%" align="center">
+      <h4>🍇 Waraq Enab</h4>
+      <img src="demo/Waraq%20enab.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>📁 Waraq enab.gif</sub>
+    </td>
+    <td width="33%" align="center">
+      <h4>📤 Recipe Upload</h4>
+      <img src="demo/demo%20Uploada%20Lasagna%20recipe%2C%20Vegetable%20Pizza%20%26%20maqduse%20recipe.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>📁 demo Uploada Lasagna recipe, Vegetable Pizza & maqduse recipe.gif</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>👤 User Profile & History</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h4>📜 History & Favorites</h4>
+      <img src="demo/History%20%26%20favor%20manage%20user%20profile.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>📁 History & favor manage user profile.gif</sub>
+    </td>
+    <td width="50%" align="center">
+      <h4>✏️ Profile Management & Help</h4>
+      <img src="demo/edit%20user%20profile%20%26%20use%20help%20link%20of%20website%20Meallense%20%26%20uploade%20Fa...gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>📁 edit user profile & use help link of website Meallense & uploade Fa...gif</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🖼️ UI/UX Design Gallery
+
+<div align="center">
+  
+### 🎨 Complete UI/UX Screenshots Collection
+
+</div>
+
+<details open>
+<summary><b>📱 Authentication & Onboarding</b></summary>
+<br>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="UI_UX/SPlash_screen.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Splash Screen</sub>
+    </td>
+    <td align="center">
+      <img src="UI_UX/splash%20page.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Splash Page</sub>
+    </td>
+    <td align="center">
+      <img src="UI_UX/welcome%20page.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Welcome Page</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="UI_UX/choice%20of%20user%20create%20account%20sign%20in%20or%20continue%20as%20guest%20or%20go%20to%20....jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>User Choice Screen</sub>
+    </td>
+    <td align="center">
+      <img src="UI_UX/create%20account%20of%20my%20email.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Create Account</sub>
+    </td>
+    <td align="center">
+      <img src="UI_UX/user%20create%20account.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>User Registration</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="UI_UX/Sign%20in%20with%20my%20email.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Sign In</sub>
+    </td>
+    <td align="center">
+      <img src="UI_UX/sign%20in.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Login Screen</sub>
+    </td>
+    <td align="center">
+      <img src="UI_UX/sign%20in%20admin%20account.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Admin Sign In</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="UI_UX/reset%20password.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Reset Password</sub>
+    </td>
+    <td align="center">
+      <img src="UI_UX/success%20reset%20password.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Password Reset Success</sub>
+    </td>
+    <td align="center">
+      <img src="UI_UX/WhatsApp%20Image%202026-02-08%20at%206.48.37%20PM.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Authentication Flow</sub>
+    </td>
+  </tr>
+</table>
+</details>
 
 <details>
-<summary><b>Common Issues & Solutions</b></summary>
+<summary><b>📸 Camera & Image Processing</b></summary>
+<br>
 
-**Issue: Flutter not found**
-```bash
-# Add Flutter to PATH
-export PATH="$PATH:/path/to/flutter/bin"
-```
+<table>
+  <tr>
+    <td align="center">
+      <img src="UI_UX/take%20photo%20of%20Tabula%20salad.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Take Photo - Tabula Salad</sub>
+    </td>
+    <td align="center">
+      <img src="UI_UX/crop%20image.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Crop Image</sub>
+    </td>
+    <td align="center">
+      <img src="UI_UX/rotation%20image.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Rotation Tool</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="UI_UX/rotation%20image%20of%2090%20degree.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>90° Rotation</sub>
+    </td>
+    <td align="center">
+      <img src="UI_UX/do%20analyze%20of%20Tabula%20salad.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Analyze Tabula Salad</sub>
+    </td>
+    <td align="center">
+      <img src="UI_UX/Tabula%20salad.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Tabula Salad Preview</sub>
+    </td>
+  </tr>
+</table>
+</details>
 
-**Issue: Build errors**
-```bash
-flutter clean
-flutter pub get
-flutter run
-```
+<details>
+<summary><b>🏠 Dashboard & Main Screens</b></summary>
+<br>
 
-**Issue: Gradle build failed**
-```bash
-# Kill existing processes
-taskkill /f /im java.exe 2>nul
-taskkill /f /im gradle.exe 2>nul
-taskkill /f /im adb.exe 2>nul
-taskkill /f /im flutter.exe 2>nul
+<table>
+  <tr>
+    <td align="center">
+      <img src="UI_UX/dashporf%20of%20user%20has%20account%20in%20MealLense.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>User Dashboard</sub>
+    </td>
+    <td align="center">
+      <img src="UI_UX/history%20page.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>History Page</sub>
+    </td>
+    <td align="center">
+      <img src="UI_UX/favorite%20dishes%20save%20in%20profile%20page.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Favorites Page</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="UI_UX/Admin%20settings.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Admin Settings</sub>
+    </td>
+    <td align="center" colspan="2">
+      <img src="UI_UX/WhatsApp%20Image%202026-02-08%20at%206.48.37%20PM%20(1).jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Dashboard Overview</sub>
+    </td>
+  </tr>
+</table>
+</details>
 
-# Clean project
-cd "C:\Users\hp\Documents\projects\meallense"
-flutter clean
-rd /s /q android\.gradle 2>nul
-rd /s /q android\build 2>nul
-rd /s /q build 2>nul
-rd /s /q "%USERPROFILE%\.gradle\caches" 2>nul
-rd /s /q "%USERPROFILE%\.gradle\wrapper\dists" 2>nul
-flutter pub get
-flutter run
-```
+<details>
+<summary><b>📊 Recipe Results & Analysis</b></summary>
+<br>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="UI_UX/result%20page.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Results Page</sub>
+    </td>
+    <td align="center">
+      <img src="UI_UX/result%20of%20Tabula%20salad.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Tabula Salad Result</sub>
+    </td>
+    <td align="center">
+      <img src="UI_UX/result%20of%20Quinoa%20Tabula%20salad.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Quinoa Tabula Result</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="UI_UX/result%20Nutrition%20facts%20%26%20detailed%20Nutrition%20of%20Quinoa%20Tabula%20salad.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Nutrition Facts</sub>
+    </td>
+    <td align="center">
+      <img src="UI_UX/result%20of%20ingredients%20%26%20Quantities%20Quinoa%20Tabula%20salad.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Ingredients & Quantities</sub>
+    </td>
+    <td align="center">
+      <img src="UI_UX/result%20of%20preparation%20steps%20Quinoa%20Tabula%20salad.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Preparation Steps</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="UI_UX/result%20of%20preparation%20steps%20of%20Quinoa%20Tabula%20salad.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Detailed Steps</sub>
+    </td>
+    <td align="center">
+      <img src="UI_UX/resueit%20after%20uploade%20lasagne.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Lasagne Result</sub>
+    </td>
+    <td align="center">
+      <img src="UI_UX/upload%20lasagne%20recipe.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Upload Lasagne</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="UI_UX/upload%20another%20recipe.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Upload Another Recipe</sub>
+    </td>
+    <td align="center" colspan="2">
+      <img src="UI_UX/WhatsApp%20Image%202026-02-08%20at%206.48.37%20PM%20(2).jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Recipe Details</sub>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary><b>🌐 Website Interface</b></summary>
+<br>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="UI_UX/website%20of%20MealSense%20home%20page.jpeg" width="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Home Page</sub>
+    </td>
+    <td align="center">
+      <img src="UI_UX/website%20of%20Meallense%20ask%20FAQ%20page.jpeg" width="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>FAQ Page</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="UI_UX/website%20Admin%20dashboard%20to%20manage%20messages%20%26%20FAQ.jpeg" width="600" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <br>
+      <sub>Admin Dashboard</sub>
+    </td>
+  </tr>
+</table>
 </details>
 
 ---
 
-## 🎥 Demo Videos
+## 📊 Demo Summary Table
 
 <div align="center">
-  
-### 📱 Application Demos
 
-| Demo | Description | Size |
-|:----:|:-----------:|:----:|
-| [![Admin Management](https://via.placeholder.com/150x100/2D5A27/FFFFFF?text=Admin+Demo)](demo/Admin%20management%20localdatasets%2C%20feedback.gif) | **Admin Management**<br>Local datasets & feedback | 21,871 KB |
-| [![Peas with Meat](https://via.placeholder.com/150x100/FF6B6B/FFFFFF?text=Peas+with+Meat)](demo/pease%20with%20meat.gif) | **Peas with Meat**<br>Recipe recognition demo | 13,031 KB |
-| [![Waraq Enab](https://via.placeholder.com/150x100/8E75B2/FFFFFF?text=Waraq+Enab)](demo/Waraq%20enab.gif) | **Waraq Enab**<br>Arabic dish recognition | 7,156 KB |
-| [![FAQ Management](https://via.placeholder.com/150x100/02569B/FFFFFF?text=FAQ+Management)](demo/Admin%20management%20FAQ%20%26%20Massage%20from%20user.gif) | **FAQ Management**<br>Admin & user messages | 11,048 KB |
-| [![History & Favorites](https://via.placeholder.com/150x100/FFCA28/000000?text=History+%26+Fav)](demo/History%20%26%20favor%20manage%20user%20profile.gif) | **History & Favorites**<br>User profile management | 57,208 KB |
-| [![Profile Edit](https://via.placeholder.com/150x100/0089D6/FFFFFF?text=Profile+Edit)](demo/edit%20user%20profile%20%26%20use%20help%20link%20of%20website%20Meal.gif) | **Profile Edit**<br>User settings & help | 57,208 KB |
-| [![Recipe Upload](https://via.placeholder.com/150x100/46E3B7/000000?text=Recipe+Upload)](demo/demo%20Upload%20Lasagna%20recipe%2C%20Vegetable%20Pizza.gif) | **Recipe Upload**<br>Lasagna & Pizza demo | 24,002 KB |
+| # | Demo Name | Category | Key Features |
+|:--:|:---------:|:--------:|:------------:|
+| 1 | `Admin management localdataset, feedback & show user statistics.gif` | **Admin** | Dataset management, Feedback review, Statistics |
+| 2 | `Admin management FAQ & Massage from users.gif` | **Admin** | FAQ editing, Message management |
+| 3 | `pease with meat.gif` | **Recognition** | Meal identification, Recipe display |
+| 4 | `Waraq enab.gif` | **Recognition** | Arabic dish recognition |
+| 5 | `demo Uploada Lasagna recipe, Vegetable Pizza & maqduse recipe.gif` | **Recipes** | Recipe upload, Data validation |
+| 6 | `History & favor manage user profile.gif` | **Profile** | History view, Favorite management |
+| 7 | `edit user profile & use help link of website Meallense & uploade Fa...gif` | **Profile** | Profile editing, Help system |
 
 </div>
 
-### 📸 Screenshots Gallery
+---
+
+## 🎯 Feature Coverage Matrix
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="assets/screenshots/login.jpg" width="200"/></td>
-      <td><img src="assets/screenshots/home.jpg" width="200"/></td>
-      <td><img src="assets/screenshots/camera.jpg" width="200"/></td>
-    </tr>
-    <tr>
-      <td align="center"><b>Login Screen</b></td>
-      <td align="center"><b>Home Dashboard</b></td>
-      <td align="center"><b>Camera Capture</b></td>
-    </tr>
-    <tr>
-      <td><img src="assets/screenshots/results.jpg" width="200"/></td>
-      <td><img src="assets/screenshots/ingredients.jpg" width="200"/></td>
-      <td><img src="assets/screenshots/profile.jpg" width="200"/></td>
-    </tr>
-    <tr>
-      <td align="center"><b>Recipe Results</b></td>
-      <td align="center"><b>Ingredients</b></td>
-      <td align="center"><b>Profile</b></td>
-    </tr>
-    <tr>
-      <td><img src="assets/screenshots/history.jpg" width="200"/></td>
-      <td><img src="assets/screenshots/ai_assistant.jpg" width="200"/></td>
-      <td><img src="assets/screenshots/admin.jpg" width="200"/></td>
-    </tr>
-    <tr>
-      <td align="center"><b>History</b></td>
-      <td align="center"><b>AI Assistant</b></td>
-      <td align="center"><b>Admin Dashboard</b></td>
-    </tr>
-  </table>
+
+| Feature | Demo 1 | Demo 2 | Demo 3 | Demo 4 | Demo 5 | Demo 6 | Demo 7 |
+|:-------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+| **Admin Features** | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
+| **Meal Recognition** | ❌ | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ |
+| **Recipe Details** | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ |
+| **User Profile** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ |
+| **History Management** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ |
+| **Favorites** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ |
+| **FAQ System** | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| **Message System** | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **Image Upload** | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ |
+| **Arabic Cuisine** | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ |
+
 </div>
 
 ---
@@ -438,19 +665,6 @@ lib/ai_assistant/
     └── ai_assistant_page.dart             # Main AI screen
 ```
 
-### Environment Configuration
-```env
-# .env file
-GEMINI_API_KEY=your_actual_gemini_api_key_here
-APP_NAME=MealLens AI Assistant
-APP_VERSION=1.0.0
-MAX_TOKENS=2048
-TEMPERATURE=0.7
-ENABLE_IMAGE_ANALYSIS=true
-ENABLE_VOICE_INPUT=true
-DEFAULT_LANGUAGE=en
-```
-
 ### Key Features
 - **Contextual Conversations**: Remembers previous interactions
 - **Voice Input**: Speech-to-text for hands-free operation
@@ -466,60 +680,11 @@ The MealLense web platform provides administrative tools and user support featur
 
 ### Features
 
-<table>
-  <tr>
-    <th>Module</th>
-    <th>Features</th>
-    <th>Access</th>
-  </tr>
-  <tr>
-    <td><b>Admin Dashboard</b></td>
-    <td>
-      <ul>
-        <li>Recipe CRUD operations</li>
-        <li>User message management</li>
-        <li>FAQ editing</li>
-        <li>Analytics overview</li>
-      </ul>
-    </td>
-    <td>Admin only</td>
-  </tr>
-  <tr>
-    <td><b>FAQ System</b></td>
-    <td>
-      <ul>
-        <li>Bilingual content</li>
-        <li>Search functionality</li>
-        <li>Category filtering</li>
-        <li>View tracking</li>
-      </ul>
-    </td>
-    <td>Public</td>
-  </tr>
-  <tr>
-    <td><b>Contact Form</b></td>
-    <td>
-      <ul>
-        <li>Message submission</li>
-        <li>Email notifications</li>
-        <li>Status tracking</li>
-        <li>Auto-response</li>
-      </ul>
-    </td>
-    <td>Public</td>
-  </tr>
-</table>
-
-### Firestore Collections
-
-| Collection | Description | Schema |
-|:----------:|:-----------:|:------:|
-| `recipes` | Active recipes | Full recipe data |
-| `deleted_recipes` | Soft-deleted recipes | Recipe + deletion metadata |
-| `website_faq` | FAQ content | Question, answer, category, views |
-| `website_messages` | User contact forms | Name, email, message, status |
-| `admin_users` | Admin credentials | Email, password (hashed) |
-| `user_questions` | Unanswered queries | Question, email, category |
+| Module | Features | Access |
+|:------:|:--------:|:------:|
+| **Admin Dashboard** | Recipe CRUD, Message management, FAQ editing, Analytics | Admin only |
+| **FAQ System** | Bilingual content, Search, Category filtering, View tracking | Public |
+| **Contact Form** | Message submission, Email notifications, Status tracking | Public |
 
 ---
 
@@ -548,19 +713,6 @@ The MealLense web platform provides administrative tools and user support featur
 
 </div>
 
-### Data Flow
-
-1. **User captures food image** via camera or gallery
-2. **Image preprocessing** (cropping, rotation, format conversion)
-3. **Azure Custom Vision** processes image and returns meal predictions
-4. **Recipe retrieval** from multiple APIs with fallback logic:
-   - Spoonacular API (primary)
-   - Edamam API (fallback)
-   - TheMealDB API (secondary fallback)
-   - Local Firebase database (final fallback)
-5. **Results displayed** with nutritional info and cooking instructions
-6. **User interactions** saved to Firebase (history, favorites)
-
 ---
 
 ## 📈 Performance Metrics
@@ -573,67 +725,19 @@ The MealLense web platform provides administrative tools and user support featur
 - **Average Precision (AP)**: 84.0%
 - **Mean Average Precision (mAP)**: 82.0%
 
-### Training Size Impact
-
-| Dish | 5 images | 25 images | 70 images | 150 images |
-|:----:|:--------:|:---------:|:---------:|:----------:|
-| Burger | 37.2% | 70.45% | 66.67% | 76.1% |
-| Pizza | 37.5% | 45.24% | 67.5% | 84.1% |
-| Donut | 52.3% | 78.7% | 86.5% | 95.1% |
-| Fries | 19.5% | 66.67% | 80.56% | 90% |
-| Hot Dog | 18.6% | 76.9% | 80.56% | 87.5% |
-
 ---
 
 ## 🔌 API Integration
 
 ### API Free Tiers
 
-| API | Free Tier | Daily Limit |
-|:---:|:---------:|:-----------:|
-| Spoonacular | 150 calls/day | ~150 |
-| Edamam | Limited free | Varies |
-| TheMealDB | Unlimited | Unlimited |
-| Azure Custom Vision | $300 credit | Project budget |
-| Gemini AI | 60 requests/minute | 1,500,000 tokens/month |
-
-### Fallback Strategy
-```dart
-// Intelligent API fallback logic
-Future<Recipe> getRecipe(String mealName) async {
-  try {
-    return await spoonacularService.getRecipe(mealName);
-  } catch (e) {
-    try {
-      return await edamamService.getRecipe(mealName);
-    } catch (e) {
-      try {
-        return await themealdbService.getRecipe(mealName);
-      } catch (e) {
-        return await localDatabase.getRecipe(mealName);
-      }
-    }
-  }
-}
-```
-
----
-
-## 🎨 UI/UX Design
-
-Designed in **Figma** with focus on:
-- **Intuitive navigation** with clear user flows
-- **Consistent visual language** across all screens
-- **Responsive layouts** for various device sizes
-- **Dark/light theme** support
-- **Accessibility features** including text-to-speech
-
-### Design Principles
-1. **Clarity** - Simple, understandable interfaces
-2. **Efficiency** - Minimal steps to complete tasks
-3. **Consistency** - Familiar patterns throughout
-4. **Feedback** - Clear system responses to actions
-5. **Accessibility** - Usable by everyone
+| API | Free Tier |
+|:---:|:---------:|
+| Spoonacular | 150 calls/day |
+| Edamam | Limited free |
+| TheMealDB | Unlimited |
+| Azure Custom Vision | $300 credit |
+| Gemini AI | 60 requests/minute |
 
 ---
 
@@ -646,46 +750,23 @@ Designed in **Figma** with focus on:
 - [x] Firebase project setup
 
 ### Phase 2: Core Features (Nov-Dec 2025)
-- [x] Authentication system (email, Google, guest)
+- [x] Authentication system
 - [x] Camera & gallery integration
 - [x] Azure Custom Vision integration
-- [x] Recipe API integration (Spoonacular)
-- [x] Basic meal recognition flow
+- [x] Recipe API integration
 
 ### Phase 3: Advanced Features (Dec 2025-Jan 2026)
 - [x] AI Assistant with Gemini API
 - [x] Save to favorites & history tracking
 - [x] Multi-API fallback system
-- [x] Local database in Firebase
-- [x] Web platform development (HTML, CSS, JS)
-- [x] Admin dashboard for content management
-- [x] FAQ & contact system
+- [x] Web platform development
+- [x] Admin dashboard
 
 ### Phase 4: Polish & Launch (Jan-Feb 2026)
 - [x] Comprehensive testing
 - [x] Performance optimization
 - [x] User acceptance testing
 - [x] Documentation completion
-- [x] Final presentation preparation
-
----
-
-## 🧪 Testing
-
-### User Testing Scenarios
-
-| Test Case | Steps | Expected Result | Status |
-|:---------:|:-----:|:---------------:|:------:|
-| Login with correct credentials | Enter valid email/password | Successful login | ✅ |
-| Login with wrong password | Enter invalid password | Error message displayed | ✅ |
-| Password reset | Request password reset | Reset email sent | ✅ |
-| Guest mode access | Continue as guest | Limited access granted | ✅ |
-| Image capture | Take food photo | Image preview shown | ✅ |
-| Image cropping | Adjust crop area | Cropped image saved | ✅ |
-| Meal recognition | Analyze food image | Recipe displayed | ✅ |
-| Save to favorites | Tap favorite icon | Recipe saved | ✅ |
-| History viewing | Navigate to history | Past meals shown | ✅ |
-| Delete history item | Select & delete | Item removed | ✅ |
 
 ---
 
@@ -708,418 +789,13 @@ We welcome contributions! Please follow these steps:
    ```
 5. **Open** a Pull Request
 
-### Branch Naming Convention
-- `feature/` - New features
-- `fix/` - Bug fixes
-- `docs/` - Documentation updates
-- `refactor/` - Code refactoring
-- `test/` - Testing additions
-
 ---
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-```
-MIT License
-
-Copyright (c) 2026 MealLense Team - Birzeit University
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files...
-```
-
 ---
-
-## 🙏 Acknowledgments
-
-- **Dr. Yazan Abu Farha** - Project supervisor & mentor
-- **Birzeit University** - Faculty of Engineering & Technology
-- **Kaggle** - Dataset providers (Arabic Food 101, Food-101, UEC FOOD 256)
-- **Spoonacular** - Recipe API
-- **Edamam** - Nutrition API
-- **TheMealDB** - Open recipe database
-- **Microsoft Azure** - Custom Vision AI services
-- **Google Gemini** - AI Assistant capabilities
-- **Firebase** - Backend infrastructure
-- **Flutter team** - Cross-platform framework
-- All **test users** who provided valuable feedback
-
----
-
-ر# 🎥 MealLense - Complete Demo Videos Gallery
-
-<div align="center">
-
-# 📱 Application Demo Showcase
-
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
-[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
-
-**Explore all features through our comprehensive demo collection**
-
-</div>
-
----
-
-## 📋 Demo Index
-
-<details open>
-<summary><b>📑 Quick Navigation</b></summary>
-<br>
-
-| Section | Category | # of Demos |
-|:-------:|:--------:|:----------:|
-| [1️⃣](#-1-admin--management-features) | **Admin & Management** | 3 |
-| [2️⃣](#-2-recipe--meal-recognition) | **Recipe & Meal Recognition** | 2 |
-| [3️⃣](#-3-user-profile--history) | **User Profile & History** | 2 |
-
-</details>
-
----
-
-## 1️⃣ Admin & Management Features
-
-<div align="center">
-  
-### 🛠️ Administrative Dashboard Operations
-
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>📊 Dataset Management</h3>
-    </td>
-    <td align="center" width="33%">
-      <h3>❓ FAQ Management</h3>
-    </td>
-    <td align="center" width="33%">
-      <h3>📨 Message Management</h3>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="demo/Admin%20management%20localdatasets%2C%20feedback.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-    </td>
-    <td>
-      <img src="demo/Admin%20management%20FAQ%20%26%20Massage%20from%20user.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-    </td>
-    <td>
-      <img src="demo/Admin%20management%20FAQ%20%26%20Massage%20from%20user.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table width="100%">
-        <tr><td><b>📁 File:</b> <code>Admin management localdatasets, feedback.gif</code></td></tr>
-        <tr><td><b>📊 Size:</b> 21,871 KB</td></tr>
-        <tr><td><b>🕒 Modified:</b> 2/26/2026 6:48 PM</td></tr>
-        <tr><td><b>📝 Description:</b> Managing local datasets, viewing user feedback, and database operations</td></tr>
-      </table>
-    </td>
-    <td>
-      <table width="100%">
-        <tr><td><b>📁 File:</b> <code>Admin management FAQ & Massage from user.gif</code></td></tr>
-        <tr><td><b>📊 Size:</b> 11,048 KB</td></tr>
-        <tr><td><b>🕒 Modified:</b> 2/26/2026 5:34 PM</td></tr>
-        <tr><td><b>📝 Description:</b> Managing FAQ content and reviewing user messages</td></tr>
-      </table>
-    </td>
-    <td>
-      <table width="100%">
-        <tr><td><b>📁 File:</b> <code>Admin management FAQ & Massage from user.gif</code></td></tr>
-        <tr><td><b>📊 Size:</b> 11,048 KB</td></tr>
-        <tr><td><b>🕒 Modified:</b> 2/26/2026 5:34 PM</td></tr>
-        <tr><td><b>📝 Description:</b> Comprehensive admin dashboard with message filtering</td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
----
-
-## 2️⃣ Recipe & Meal Recognition
-
-<div align="center">
-  
-### 🍽️ AI-Powered Food Recognition Demos
-
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🍖 Peas with Meat</h3>
-    </td>
-    <td align="center" width="50%">
-      <h3>🍇 Waraq Enab (Stuffed Grape Leaves)</h3>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="demo/pease%20with%20meat.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-    </td>
-    <td>
-      <img src="demo/Waraq%20enab.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table width="100%">
-        <tr><td><b>📁 File:</b> <code>pease with meat.gif</code></td></tr>
-        <tr><td><b>📊 Size:</b> 13,031 KB</td></tr>
-        <tr><td><b>🕒 Modified:</b> 2/26/2026 6:43 PM</td></tr>
-        <tr><td><b>🔍 Recognition:</b> Peas with Meat dish</td></tr>
-        <tr><td><b>📋 Features:</b> 
-          <ul>
-            <li>✅ Meal identification</li>
-            <li>✅ Ingredients list</li>
-            <li>✅ Cooking instructions</li>
-          </ul>
-        </td></tr>
-      </table>
-    </td>
-    <td>
-      <table width="100%">
-        <tr><td><b>📁 File:</b> <code>Waraq enab.gif</code></td></tr>
-        <tr><td><b>📊 Size:</b> 7,156 KB</td></tr>
-        <tr><td><b>🕒 Modified:</b> 2/26/2026 6:43 PM</td></tr>
-        <tr><td><b>🔍 Recognition:</b> Waraq Enab (Stuffed Grape Leaves)</td></tr>
-        <tr><td><b>📋 Features:</b>
-          <ul>
-            <li>✅ Traditional Arabic dish</li>
-            <li>✅ Detailed recipe</li>
-            <li>✅ Preparation steps</li>
-          </ul>
-        </td></tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <h3>📤 Recipe Upload Demo</h3>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="demo/demo%20Upload%20Lasagna%20recipe%2C%20Vegetable%20Pizza.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <table width="100%">
-        <tr><td><b>📁 File:</b> <code>demo Upload Lasagna recipe, Vegetable Pizza.gif</code></td></tr>
-        <tr><td><b>📊 Size:</b> 24,002 KB</td></tr>
-        <tr><td><b>🕒 Modified:</b> 2/26/2026 4:40 PM</td></tr>
-        <tr><td><b>🍕 Recipes:</b> Lasagna & Vegetable Pizza</td></tr>
-        <tr><td><b>📋 Features:</b>
-          <ul>
-            <li>✅ Recipe creation workflow</li>
-            <li>✅ Image upload process</li>
-            <li>✅ Data validation</li>
-            <li>✅ Firebase storage integration</li>
-          </ul>
-        </td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
----
-
-## 3️⃣ User Profile & History
-
-<div align="center">
-  
-### 👤 Personalization & User Management
-
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>📜 History & Favorites</h3>
-    </td>
-    <td align="center" width="50%">
-      <h3>✏️ Profile Management</h3>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="demo/History%20%26%20favor%20manage%20user%20profile.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-    </td>
-    <td>
-      <img src="demo/edit%20user%20profile%20%26%20use%20help%20link%20of%20website%20Meal.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table width="100%">
-        <tr><td><b>📁 File:</b> <code>History & favor manage user profile.gif</code></td></tr>
-        <tr><td><b>📊 Size:</b> 57,208 KB</td></tr>
-        <tr><td><b>🕒 Modified:</b> 2/26/2026 5:15 PM</td></tr>
-        <tr><td><b>📋 Features:</b>
-          <ul>
-            <li>✅ View meal history</li>
-            <li>✅ Manage favorites</li>
-            <li>✅ Delete history items</li>
-            <li>✅ Quick access to saved recipes</li>
-          </ul>
-        </td></tr>
-      </table>
-    </td>
-    <td>
-      <table width="100%">
-        <tr><td><b>📁 File:</b> <code>edit user profile & use help link of website Meal.gif</code></td></tr>
-        <tr><td><b>📊 Size:</b> 57,208 KB</td></tr>
-        <tr><td><b>🕒 Modified:</b> 2/26/2026 5:14 PM</td></tr>
-        <tr><td><b>📋 Features:</b>
-          <ul>
-            <li>✅ Edit profile information</li>
-            <li>✅ Access help resources</li>
-            <li>✅ Website integration</li>
-            <li>✅ Settings configuration</li>
-          </ul>
-        </td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 Demo Summary Table
-
-<div align="center">
-
-| # | Demo Name | Category | Size | Duration | Key Features |
-|:--:|:---------:|:--------:|:----:|:--------:|:------------:|
-| 1 | `Admin management localdatasets, feedback.gif` | **Admin** | 21,871 KB | ~2 min | Dataset management, Feedback review |
-| 2 | `pease with meat.gif` | **Recognition** | 13,031 KB | ~1 min | Meal identification, Recipe display |
-| 3 | `Waraq enab.gif` | **Recognition** | 7,156 KB | ~45 sec | Arabic dish recognition |
-| 4 | `Admin management FAQ & Massage from user.gif` | **Admin** | 11,048 KB | ~1.5 min | FAQ editing, Message management |
-| 5 | `History & favor manage user profile.gif` | **Profile** | 57,208 KB | ~3 min | History view, Favorite management |
-| 6 | `edit user profile & use help link of website Meal.gif` | **Profile** | 57,208 KB | ~3 min | Profile editing, Help system |
-| 7 | `demo Upload Lasagna recipe, Vegetable Pizza.gif` | **Recipes** | 24,002 KB | ~2 min | Recipe upload, Data validation |
-
-</div>
-
----
-
-## 🎯 Feature Coverage Matrix
-
-<div align="center">
-
-| Feature | Demo 1 | Demo 2 | Demo 3 | Demo 4 | Demo 5 | Demo 6 | Demo 7 |
-|:-------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
-| **Admin Features** | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ |
-| **Meal Recognition** | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| **Recipe Details** | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ |
-| **User Profile** | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ |
-| **History Management** | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ |
-| **Favorites** | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ |
-| **FAQ System** | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ | ❌ |
-| **Message System** | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
-| **Image Upload** | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ |
-| **Arabic Cuisine** | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
-
-</div>
-
----
-
-## 📁 How to Access Demos
-
-### Option 1: Direct Access
-All demo files are located in the `demo/` folder:
-
-```bash
-cd demo/
-ls -la
-```
-
-### Option 2: View in Browser
-1. Navigate to the `demo/` folder in your repository
-2. Click on any `.gif` file to view it directly
-3. Use the navigation buttons to browse through demos
-
-### Option 3: Download for Local Viewing
-```bash
-git clone https://github.com/your-username/meallense.git
-cd meallense/demo
-# Open any GIF file with your preferred viewer
-```
-
----
-
-## 🎬 Complete End-to-End Demo
-
-For a comprehensive walkthrough of all features, watch our complete application demo:
-
-<div align="center">
-
-### 📹 Full Application Demo Video
-
-[![MealLense Complete Demo](https://img.shields.io/badge/Watch_Complete_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/your-demo-link)
-
-**Duration:** 15 minutes  
-**Covers:** Authentication → Recognition → Recipes → History → Admin → AI Assistant
-
-</div>
-
----
-
-## 📝 Demo Recording Details
-
-<details>
-<summary><b>Click to expand recording specifications</b></summary>
-<br>
-
-| Specification | Details |
-|:-------------:|:-------:|
-| **Screen Resolution** | 1080 x 2400 pixels |
-| **Frame Rate** | 30 fps |
-| **Device** | Android Emulator / Physical Device |
-| **Recording Tool** | Screen recording software |
-| **Compression** | Optimized GIF format |
-| **File Naming** | Descriptive with feature names |
-| **Timestamp** | All demos recorded Feb 2026 |
-
-</details>
-
----
-
-## 🔗 Quick Links
-
-<div align="center">
-
-| Resource | Link |
-|:--------:|:----:|
-| 📁 **All Demos** | [`/demo`](./demo) |
-| 📊 **Project Report** | [`ENCS5300-Section2-Report.pdf`](./ENCS5300-Section2-Report.pdf) |
-| 🌐 **Web Platform** | [MealLense Website](https://meallense.onrender.com) |
-| 📱 **Source Code** | [GitHub Repository](https://github.com/your-username/meallense) |
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Found these demos helpful? Star the repository!
-
----
-
-**Made with ❤️ by Team MealLense**  
-Rana Musa · Layan Burait · Haneen Odeh  
-*Supervised by Dr. Yazan Abu Farha*
-
-**Birzeit University - Computer Engineering Department**  
-*February 2026*
-
-</div>
 
 <div align="center">
 
@@ -1133,15 +809,19 @@ Rana Musa · Layan Burait · Haneen Odeh
 
 **© 2026 MealLense Team | All Rights Reserved**
 
+**Rana Musa · Layan Burait · Haneen Odeh**  
+*Supervised by Dr. Yazan Abu Farha*
+
+**Birzeit University - Computer Engineering Department**  
+*February 2026*
+
 </div>
 
 ---
 
-**Project Repository:** [https://github.com/your-username/meallense](https://github.com/your-username/meallense)  
-**Web Platform:** [https://meallense.onrender.com](https://meallense.onrender.com)  
-**Demo Video:** [Complete Application Demo](https://youtube.com/your-demo-link)  
+**Project Repository:** [https://github.com/layanbuirat/Graduation-Project-MealLense-Mobile-App-with-Website-Development-FAQ-Message-management-](https://github.com/layanbuirat/Graduation-Project-MealLense-Mobile-App-with-Website-Development-FAQ-Message-management-)  
+**Web Platform:** [https://meallense.onrender.com](https://meallense.onrender.com)
 
 ---
-
 
 *This project was submitted in partial fulfillment of the requirements for the degree of Bachelor of Science in Computer Engineering at Birzeit University, February 2026.*
