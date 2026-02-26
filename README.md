@@ -11,7 +11,7 @@
   
   **Bridging the gap between food discovery and meal preparation with cutting-edge AI**
 
-  [📱 Download App](#-installation--setup) • [🌐 Web Platform](#-web-platform) • [📄 Documentation](#-project-structure) • [🎥 Demo Gallery](#-demo-gallery)
+  [📱 Download App](#-installation--setup) • [🌐 Web Platform](https://meallense-website-help.onrender.com) • [📄 Documentation](#-project-structure) • [🎥 Demo Gallery](#-demo-gallery)
 
 </div>
 
