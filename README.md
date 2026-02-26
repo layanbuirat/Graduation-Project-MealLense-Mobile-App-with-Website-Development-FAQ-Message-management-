@@ -748,6 +748,379 @@ of this software and associated documentation files...
 
 ---
 
+ر# 🎥 MealLense - Complete Demo Videos Gallery
+
+<div align="center">
+
+# 📱 Application Demo Showcase
+
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
+[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
+
+**Explore all features through our comprehensive demo collection**
+
+</div>
+
+---
+
+## 📋 Demo Index
+
+<details open>
+<summary><b>📑 Quick Navigation</b></summary>
+<br>
+
+| Section | Category | # of Demos |
+|:-------:|:--------:|:----------:|
+| [1️⃣](#-1-admin--management-features) | **Admin & Management** | 3 |
+| [2️⃣](#-2-recipe--meal-recognition) | **Recipe & Meal Recognition** | 2 |
+| [3️⃣](#-3-user-profile--history) | **User Profile & History** | 2 |
+
+</details>
+
+---
+
+## 1️⃣ Admin & Management Features
+
+<div align="center">
+  
+### 🛠️ Administrative Dashboard Operations
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>📊 Dataset Management</h3>
+    </td>
+    <td align="center" width="33%">
+      <h3>❓ FAQ Management</h3>
+    </td>
+    <td align="center" width="33%">
+      <h3>📨 Message Management</h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="demo/Admin%20management%20localdatasets%2C%20feedback.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    </td>
+    <td>
+      <img src="demo/Admin%20management%20FAQ%20%26%20Massage%20from%20user.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    </td>
+    <td>
+      <img src="demo/Admin%20management%20FAQ%20%26%20Massage%20from%20user.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table width="100%">
+        <tr><td><b>📁 File:</b> <code>Admin management localdatasets, feedback.gif</code></td></tr>
+        <tr><td><b>📊 Size:</b> 21,871 KB</td></tr>
+        <tr><td><b>🕒 Modified:</b> 2/26/2026 6:48 PM</td></tr>
+        <tr><td><b>📝 Description:</b> Managing local datasets, viewing user feedback, and database operations</td></tr>
+      </table>
+    </td>
+    <td>
+      <table width="100%">
+        <tr><td><b>📁 File:</b> <code>Admin management FAQ & Massage from user.gif</code></td></tr>
+        <tr><td><b>📊 Size:</b> 11,048 KB</td></tr>
+        <tr><td><b>🕒 Modified:</b> 2/26/2026 5:34 PM</td></tr>
+        <tr><td><b>📝 Description:</b> Managing FAQ content and reviewing user messages</td></tr>
+      </table>
+    </td>
+    <td>
+      <table width="100%">
+        <tr><td><b>📁 File:</b> <code>Admin management FAQ & Massage from user.gif</code></td></tr>
+        <tr><td><b>📊 Size:</b> 11,048 KB</td></tr>
+        <tr><td><b>🕒 Modified:</b> 2/26/2026 5:34 PM</td></tr>
+        <tr><td><b>📝 Description:</b> Comprehensive admin dashboard with message filtering</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 2️⃣ Recipe & Meal Recognition
+
+<div align="center">
+  
+### 🍽️ AI-Powered Food Recognition Demos
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🍖 Peas with Meat</h3>
+    </td>
+    <td align="center" width="50%">
+      <h3>🍇 Waraq Enab (Stuffed Grape Leaves)</h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="demo/pease%20with%20meat.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    </td>
+    <td>
+      <img src="demo/Waraq%20enab.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table width="100%">
+        <tr><td><b>📁 File:</b> <code>pease with meat.gif</code></td></tr>
+        <tr><td><b>📊 Size:</b> 13,031 KB</td></tr>
+        <tr><td><b>🕒 Modified:</b> 2/26/2026 6:43 PM</td></tr>
+        <tr><td><b>🔍 Recognition:</b> Peas with Meat dish</td></tr>
+        <tr><td><b>📋 Features:</b> 
+          <ul>
+            <li>✅ Meal identification</li>
+            <li>✅ Ingredients list</li>
+            <li>✅ Cooking instructions</li>
+          </ul>
+        </td></tr>
+      </table>
+    </td>
+    <td>
+      <table width="100%">
+        <tr><td><b>📁 File:</b> <code>Waraq enab.gif</code></td></tr>
+        <tr><td><b>📊 Size:</b> 7,156 KB</td></tr>
+        <tr><td><b>🕒 Modified:</b> 2/26/2026 6:43 PM</td></tr>
+        <tr><td><b>🔍 Recognition:</b> Waraq Enab (Stuffed Grape Leaves)</td></tr>
+        <tr><td><b>📋 Features:</b>
+          <ul>
+            <li>✅ Traditional Arabic dish</li>
+            <li>✅ Detailed recipe</li>
+            <li>✅ Preparation steps</li>
+          </ul>
+        </td></tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>📤 Recipe Upload Demo</h3>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="demo/demo%20Upload%20Lasagna%20recipe%2C%20Vegetable%20Pizza.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <table width="100%">
+        <tr><td><b>📁 File:</b> <code>demo Upload Lasagna recipe, Vegetable Pizza.gif</code></td></tr>
+        <tr><td><b>📊 Size:</b> 24,002 KB</td></tr>
+        <tr><td><b>🕒 Modified:</b> 2/26/2026 4:40 PM</td></tr>
+        <tr><td><b>🍕 Recipes:</b> Lasagna & Vegetable Pizza</td></tr>
+        <tr><td><b>📋 Features:</b>
+          <ul>
+            <li>✅ Recipe creation workflow</li>
+            <li>✅ Image upload process</li>
+            <li>✅ Data validation</li>
+            <li>✅ Firebase storage integration</li>
+          </ul>
+        </td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 3️⃣ User Profile & History
+
+<div align="center">
+  
+### 👤 Personalization & User Management
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>📜 History & Favorites</h3>
+    </td>
+    <td align="center" width="50%">
+      <h3>✏️ Profile Management</h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="demo/History%20%26%20favor%20manage%20user%20profile.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    </td>
+    <td>
+      <img src="demo/edit%20user%20profile%20%26%20use%20help%20link%20of%20website%20Meal.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table width="100%">
+        <tr><td><b>📁 File:</b> <code>History & favor manage user profile.gif</code></td></tr>
+        <tr><td><b>📊 Size:</b> 57,208 KB</td></tr>
+        <tr><td><b>🕒 Modified:</b> 2/26/2026 5:15 PM</td></tr>
+        <tr><td><b>📋 Features:</b>
+          <ul>
+            <li>✅ View meal history</li>
+            <li>✅ Manage favorites</li>
+            <li>✅ Delete history items</li>
+            <li>✅ Quick access to saved recipes</li>
+          </ul>
+        </td></tr>
+      </table>
+    </td>
+    <td>
+      <table width="100%">
+        <tr><td><b>📁 File:</b> <code>edit user profile & use help link of website Meal.gif</code></td></tr>
+        <tr><td><b>📊 Size:</b> 57,208 KB</td></tr>
+        <tr><td><b>🕒 Modified:</b> 2/26/2026 5:14 PM</td></tr>
+        <tr><td><b>📋 Features:</b>
+          <ul>
+            <li>✅ Edit profile information</li>
+            <li>✅ Access help resources</li>
+            <li>✅ Website integration</li>
+            <li>✅ Settings configuration</li>
+          </ul>
+        </td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Demo Summary Table
+
+<div align="center">
+
+| # | Demo Name | Category | Size | Duration | Key Features |
+|:--:|:---------:|:--------:|:----:|:--------:|:------------:|
+| 1 | `Admin management localdatasets, feedback.gif` | **Admin** | 21,871 KB | ~2 min | Dataset management, Feedback review |
+| 2 | `pease with meat.gif` | **Recognition** | 13,031 KB | ~1 min | Meal identification, Recipe display |
+| 3 | `Waraq enab.gif` | **Recognition** | 7,156 KB | ~45 sec | Arabic dish recognition |
+| 4 | `Admin management FAQ & Massage from user.gif` | **Admin** | 11,048 KB | ~1.5 min | FAQ editing, Message management |
+| 5 | `History & favor manage user profile.gif` | **Profile** | 57,208 KB | ~3 min | History view, Favorite management |
+| 6 | `edit user profile & use help link of website Meal.gif` | **Profile** | 57,208 KB | ~3 min | Profile editing, Help system |
+| 7 | `demo Upload Lasagna recipe, Vegetable Pizza.gif` | **Recipes** | 24,002 KB | ~2 min | Recipe upload, Data validation |
+
+</div>
+
+---
+
+## 🎯 Feature Coverage Matrix
+
+<div align="center">
+
+| Feature | Demo 1 | Demo 2 | Demo 3 | Demo 4 | Demo 5 | Demo 6 | Demo 7 |
+|:-------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+| **Admin Features** | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ |
+| **Meal Recognition** | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
+| **Recipe Details** | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ |
+| **User Profile** | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ |
+| **History Management** | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ |
+| **Favorites** | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ |
+| **FAQ System** | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ | ❌ |
+| **Message System** | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| **Image Upload** | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ |
+| **Arabic Cuisine** | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+
+</div>
+
+---
+
+## 📁 How to Access Demos
+
+### Option 1: Direct Access
+All demo files are located in the `demo/` folder:
+
+```bash
+cd demo/
+ls -la
+```
+
+### Option 2: View in Browser
+1. Navigate to the `demo/` folder in your repository
+2. Click on any `.gif` file to view it directly
+3. Use the navigation buttons to browse through demos
+
+### Option 3: Download for Local Viewing
+```bash
+git clone https://github.com/your-username/meallense.git
+cd meallense/demo
+# Open any GIF file with your preferred viewer
+```
+
+---
+
+## 🎬 Complete End-to-End Demo
+
+For a comprehensive walkthrough of all features, watch our complete application demo:
+
+<div align="center">
+
+### 📹 Full Application Demo Video
+
+[![MealLense Complete Demo](https://img.shields.io/badge/Watch_Complete_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/your-demo-link)
+
+**Duration:** 15 minutes  
+**Covers:** Authentication → Recognition → Recipes → History → Admin → AI Assistant
+
+</div>
+
+---
+
+## 📝 Demo Recording Details
+
+<details>
+<summary><b>Click to expand recording specifications</b></summary>
+<br>
+
+| Specification | Details |
+|:-------------:|:-------:|
+| **Screen Resolution** | 1080 x 2400 pixels |
+| **Frame Rate** | 30 fps |
+| **Device** | Android Emulator / Physical Device |
+| **Recording Tool** | Screen recording software |
+| **Compression** | Optimized GIF format |
+| **File Naming** | Descriptive with feature names |
+| **Timestamp** | All demos recorded Feb 2026 |
+
+</details>
+
+---
+
+## 🔗 Quick Links
+
+<div align="center">
+
+| Resource | Link |
+|:--------:|:----:|
+| 📁 **All Demos** | [`/demo`](./demo) |
+| 📊 **Project Report** | [`ENCS5300-Section2-Report.pdf`](./ENCS5300-Section2-Report.pdf) |
+| 🌐 **Web Platform** | [MealLense Website](https://meallense.onrender.com) |
+| 📱 **Source Code** | [GitHub Repository](https://github.com/your-username/meallense) |
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Found these demos helpful? Star the repository!
+
+---
+
+**Made with ❤️ by Team MealLense**  
+Rana Musa · Layan Burait · Haneen Odeh  
+*Supervised by Dr. Yazan Abu Farha*
+
+**Birzeit University - Computer Engineering Department**  
+*February 2026*
+
+</div>
+
 <div align="center">
 
 ### ⭐ If you find this project useful, please consider giving it a star!
@@ -769,5 +1142,6 @@ of this software and associated documentation files...
 **Demo Video:** [Complete Application Demo](https://youtube.com/your-demo-link)  
 
 ---
+
 
 *This project was submitted in partial fulfillment of the requirements for the degree of Bachelor of Science in Computer Engineering at Birzeit University, February 2026.*
