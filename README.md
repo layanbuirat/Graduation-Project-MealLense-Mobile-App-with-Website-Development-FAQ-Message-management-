@@ -853,18 +853,6 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
-
-<div align="center">
-
-### ⭐ If you find this project useful, please consider giving it a star!
-
----
-
 **MealLense - Making cooking smarter, one meal at a time**
 
 [![Birzeit University](https://img.shields.io/badge/Birzeit_University-003366?style=for-the-badge&logo=university&logoColor=white)](https://www.birzeit.edu/)
