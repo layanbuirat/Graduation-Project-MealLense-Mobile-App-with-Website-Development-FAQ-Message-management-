@@ -278,7 +278,7 @@ meallense/
 ---
 
 #### 📊 Managing Local Dataset, Feedback & User Statistics
-<img src="demo/Admin management FAQ & Massage from users.gif" width="80%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+<img src="demo/Admin management localdataset, feedback & show user statitics.gif" width="80%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 <br>
 <sub>📁 Admin management localdataset, feedback & show user statistics.gif</sub>
 
@@ -302,7 +302,7 @@ meallense/
 
 ---
 
-#### 🍇 Stuffed Vine Leaves (Waraq Enab)
+#### 🍇 Waraq Enab
 <img src="demo/Waraq%20enab.gif" width="80%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 <br>
 <sub>📁 Waraq enab.gif</sub>
