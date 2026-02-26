@@ -354,12 +354,7 @@ meallense/
 <br>
 
 <table>
-  <tr>
-    <td align="center">
-      <img src="UI_UX/SPlash_screen.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Splash Screen</sub>
-    </td>
+  <tr>  
     <td align="center">
       <img src="UI_UX/splash%20page.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
       <br>
@@ -372,11 +367,7 @@ meallense/
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="UI_UX/choice%20of%20user%20create%20account%20sign%20in%20or%20continue%20as%20guest%20or%20go%20to%20....jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>User Choice Screen</sub>
-    </td>
+  
     <td align="center">
       <img src="UI_UX/create%20account%20of%20my%20email.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
       <br>
