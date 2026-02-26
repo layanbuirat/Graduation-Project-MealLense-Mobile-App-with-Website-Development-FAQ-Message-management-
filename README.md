@@ -335,7 +335,6 @@ meallense/
 <sub>📁 demo Uploada Lasagna recipe, Vegetable Pizza & maqduse recipe.gif</sub>
 
 ---
-
 ## 🖼️ UI/UX Design Gallery
 
 <div align="center">
@@ -348,188 +347,147 @@ meallense/
 <summary><b>📱 Authentication & Onboarding</b></summary>
 <br>
 
-<table>
-  <tr>  
-    <td align="center">
-      <img src="UI_UX/splash%20page.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Splash Page</sub>
-    </td>
-    <td align="center">
-      <img src="UI_UX/welcome%20page.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Welcome Page</sub>
-    </td>
-  </tr>
-  <tr>
-  
-    <td align="center">
-      <img src="UI_UX/create%20account%20of%20my%20email.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Create Account</sub>
-    </td>
-    <td align="center">
-      <img src="UI_UX/user%20create%20account.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>User Registration</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="UI_UX/Sign%20in%20with%20my%20email.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Sign In</sub>
-    </td>
-    <td align="center">
-      <img src="UI_UX/sign%20in.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Login Screen</sub>
-    </td>
-    <td align="center">
-      <img src="UI_UX/sign%20in%20admin%20account.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Admin Sign In</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="UI_UX/reset%20password.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Reset Password</sub>
-    </td>
-    <td align="center">
-      <img src="UI_UX/success%20reset%20password.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Password Reset Success</sub>
-    </td>
-    
-  </tr>
-</table>
+<div align="center">
+
+#### Splash Page
+<img src="UI_UX/splash%20page.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### Welcome Page
+<img src="UI_UX/welcome%20page.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### Create Account
+<img src="UI_UX/create%20account%20of%20my%20email.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### User Registration
+<img src="UI_UX/user%20create%20account.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### Sign In with Email
+<img src="UI_UX/Sign%20in%20with%20my%20email.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### Login Screen
+<img src="UI_UX/sign%20in.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### Admin Sign In
+<img src="UI_UX/sign%20in%20admin%20account.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### Reset Password
+<img src="UI_UX/reset%20password.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### Password Reset Success
+<img src="UI_UX/success%20reset%20password.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+</div>
 </details>
 
 <details>
 <summary><b>📸 Camera & Image Processing</b></summary>
 <br>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="UI_UX/take%20photo%20of%20Tabula%20salad.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Take Photo - Tabula Salad</sub>
-    </td>
-    <td align="center">
-      <img src="UI_UX/crop%20image.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Crop Image</sub>
-    </td>
-    <td align="center">
-      <img src="UI_UX/rotation%20image.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Rotation Tool</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="UI_UX/rotation%20image%20of%2090%20degree.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>90° Rotation</sub>
-    </td>
-    <td align="center">
-      <img src="UI_UX/do%20analyze%20of%20Tabula%20salad.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Analyze Tabula Salad</sub>
-    </td>
-    <td align="center">
-      <img src="UI_UX/Tabula%20salad.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Tabula Salad Preview</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+#### Take Photo - Tabula Salad
+<img src="UI_UX/take%20photo%20of%20Tabula%20salad.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### Crop Image
+<img src="UI_UX/crop%20image.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### Rotation Tool
+<img src="UI_UX/rotation%20image.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### 90° Rotation
+<img src="UI_UX/rotation%20image%20of%2090%20degree.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### Analyze Tabula Salad
+<img src="UI_UX/do%20analyze%20of%20Tabula%20salad.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### Tabula Salad Preview
+<img src="UI_UX/Tabula%20salad.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+</div>
 </details>
 
 <details>
 <summary><b>🏠 Dashboard & Main Screens</b></summary>
 <br>
-<table>
-  <tr>
-    <td align="center">
-      <img src="UI_UX/history%20page.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 8px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>History Page</sub>
-    </td>
-    </tr>
-    <tr>
-    <td align="center">
-      <img src="UI_UX/favorite%20dishes%20save%20in%20profile%20page.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 10px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Favorites Page</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="UI_UX/Admin%20settings.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 10px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Admin Settings</sub>
-    </td>
-   
-  </tr>
-</table>
+
+<div align="center">
+
+#### User Dashboard
+<img src="UI_UX/dashporf%20of%20user%20has%20account%20in%20MealLense.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### History Page
+<img src="UI_UX/history%20page.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### Favorites Page
+<img src="UI_UX/favorite%20dishes%20save%20in%20profile%20page.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### Admin Settings
+<img src="UI_UX/Admin%20settings.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### Dashboard Overview
+<img src="UI_UX/WhatsApp%20Image%202026-02-08%20at%206.48.37%20PM%20(1).jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+</div>
 </details>
 
 <details>
 <summary><b>📊 Recipe Results & Analysis</b></summary>
 <br>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="UI_UX/result%20page.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Results Page</sub>
-    </td>
-</tr>
-  <tr>
+<div align="center">
 
-    <td align="center">
-      <img src="UI_UX/result%20of%20Tabula%20salad.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Tabula Salad Result</sub>
-    </td>
-    </tr>
-  <tr>
-    <td align="center">
-      <img src="UI_UX/result%20of%20Quinoa%20Tabula%20salad.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Quinoa Tabula Result</sub>
-    </td>
-  </tr>
-  <tr>
-    
-    <td align="center">
-      <img src="UI_UX/result%20of%20ingredients%20%26%20Quantities%20Quinoa%20Tabula%20salad.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Ingredients & Quantities</sub>
-    </td>
-    </tr>
-  <tr>
-    <td align="center">
-      <img src="UI_UX/result%20of%20preparation%20steps%20Quinoa%20Tabula%20salad.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Preparation Steps</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="UI_UX/result%20of%20preparation%20steps%20of%20Quinoa%20Tabula%20salad.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Detailed Steps</sub>
-    </td>
-    
-  </tr>
- 
-</table>
+#### Results Page
+<img src="UI_UX/result%20page.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### Tabula Salad Result
+<img src="UI_UX/result%20of%20Tabula%20salad.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### Quinoa Tabula Result
+<img src="UI_UX/result%20of%20Quinoa%20Tabula%20salad.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### Nutrition Facts
+<img src="UI_UX/result%20Nutrition%20facts%20%26%20detailed%20Nutrition%20of%20Quinoa%20Tabula%20salad.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### Ingredients & Quantities
+<img src="UI_UX/result%20of%20ingredients%20%26%20Quantities%20Quinoa%20Tabula%20salad.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### Preparation Steps
+<img src="UI_UX/result%20of%20preparation%20steps%20Quinoa%20Tabula%20salad.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### Detailed Steps
+<img src="UI_UX/result%20of%20preparation%20steps%20of%20Quinoa%20Tabula%20salad.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### Lasagne Result
+<img src="UI_UX/resueit%20after%20uploade%20lasagne.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### Upload Lasagne
+<img src="UI_UX/upload%20lasagne%20recipe.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### Upload Another Recipe
+<img src="UI_UX/upload%20another%20recipe.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### Recipe Details
+<img src="UI_UX/WhatsApp%20Image%202026-02-08%20at%206.48.37%20PM%20(2).jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+</div>
+</details>
+
+<details>
+<summary><b>🌐 Website Interface</b></summary>
+<br>
+
+<div align="center">
+
+#### Home Page
+<img src="UI_UX/website%20of%20MealSense%20home%20page.jpeg" width="600" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### FAQ Page
+<img src="UI_UX/website%20of%20Meallense%20ask%20FAQ%20page.jpeg" width="600" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+#### Admin Dashboard
+<img src="UI_UX/website%20Admin%20dashboard%20to%20manage%20messages%20%26%20FAQ.jpeg" width="800" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+
+</div>
 </details>
 
 
