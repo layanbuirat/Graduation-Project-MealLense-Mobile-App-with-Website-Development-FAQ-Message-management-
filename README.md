@@ -314,14 +314,14 @@ meallense/
 ---
 
 #### 📜 Managing Search History & Favorite Meals
-<img src="demo/History%20%26%20favor%20manage%20user%20profile.gif" width="80%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+<img src="demo/History & favar manage user profile.gif" width="80%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 <br>
 <sub>📁 History & favor manage user profile.gif</sub>
 
 ---
 
 #### ✏️ Editing Profile & Using Help Link
-<img src="demo/edit%20user%20profile%20%26%20use%20help%20link%20of%20website%20MealLense%20%26%20uploade%20Fa...gif" width="80%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+<img src="demo/edit user profile & use help link of website MealLense & uploade Falafel recipe & Basbusa Sweet.gif" width="80%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 <br>
 <sub>📁 edit user profile & use help link of website MealLense & uploade Fa...gif</sub>
 
@@ -332,7 +332,7 @@ meallense/
 ---
 
 #### 🍝 Uploading Recipes for Lasagna, Vegetable Pizza, and Maqduse
-<img src="demo/demo%20Uploada%20Lasagna%20recipe%2C%20Vegetable%20Pizza%20%26%20maqduse%20recipe.gif" width="80%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+<img src="demo/demo Uploade Lasagna recipe, Vegetable Pizza & maqduse recipe.gif" width="80%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 <br>
 <sub>📁 demo Uploada Lasagna recipe, Vegetable Pizza & maqduse recipe.gif</sub>
 
