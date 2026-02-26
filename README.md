@@ -407,11 +407,7 @@ meallense/
       <br>
       <sub>Password Reset Success</sub>
     </td>
-    <td align="center">
-      <img src="UI_UX/WhatsApp%20Image%202026-02-08%20at%206.48.37%20PM.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Authentication Flow</sub>
-    </td>
+    
   </tr>
 </table>
 </details>
