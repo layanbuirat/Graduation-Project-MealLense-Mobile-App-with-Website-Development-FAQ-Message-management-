@@ -146,8 +146,9 @@ MealLense bridges this gap by offering:
 |:---:|:---:|:---:|
 | **Rana Musa** | **Layan Burait** | **Haneen Odeh** |
 | 1210007 | 1211439 | 1210716 |
-| Frontend & UI Development | Frontend & Backend Integration | Frontend & AI/ML |
-| AI & Machine Learning | API Integration | Dataset Curation |
+|Flutter |Flutter| Flutter |
+| Frontend & UI Development | Frontend, Backend Integration & AI/ML | Frontend & AI/ML |
+| AI & Machine Learning | API Integration & Azure custom vision | Dataset Curation |
 
 **👨‍🏫 Supervisor:** Dr. Yazan Abu Farha
 
