@@ -422,8 +422,6 @@ meallense/
 #### Admin Settings
 <img src="UI_UX/Admin%20settings.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
 
-#### Dashboard Overview
-<img src="UI_UX/WhatsApp%20Image%202026-02-08%20at%206.48.37%20PM%20(1).jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
 
 </div>
 </details>
@@ -444,7 +442,7 @@ meallense/
 <img src="UI_UX/result%20of%20Quinoa%20Tabula%20salad.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
 
 #### Nutrition Facts
-<img src="UI_UX/result%20Nutrition%20facts%20%26%20detailed%20Nutrition%20of%20Quinoa%20Tabula%20salad.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
+<img src="UI_UX/result Nutrition facts & detaled Nutrition of Quinoa Tabula salad.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
 
 #### Ingredients & Quantities
 <img src="UI_UX/result%20of%20ingredients%20%26%20Quantities%20Quinoa%20Tabula%20salad.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
