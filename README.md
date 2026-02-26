@@ -1,4 +1,3 @@
-```markdown
 # 🍽️ MealLense - AI-Powered Meal Recognition & Recipe Assistant
 
 <div align="center">
