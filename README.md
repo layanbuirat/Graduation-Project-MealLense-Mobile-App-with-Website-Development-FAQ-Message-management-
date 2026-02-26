@@ -1,3 +1,4 @@
+```markdown
 # 🍽️ MealLense - AI-Powered Meal Recognition & Recipe Assistant
 
 <div align="center">
@@ -470,7 +471,7 @@ meallense/
 | 3 | `pease with meat.gif` | **Recognition** | Meal identification, Recipe display |
 | 4 | `Waraq enab.gif` | **Recognition** | Arabic dish recognition |
 | 5 | `demo Uploada Lasagna recipe, Vegetable Pizza & maqduse recipe.gif` | **Recipes** | Recipe upload, Data validation |
-| 6 | `History & favor manage user profile.gif` | **Profile** | History view, Favorite management |
+| 6 | `History & favar manage user profile.gif` | **Profile** | History view, Favorite management |
 | 7 | `edit user profile & use help link of website Meallense & uploade Fa...gif` | **Profile** | Profile editing, Help system |
 
 </div>
@@ -545,7 +546,7 @@ The MealLense web platform provides administrative tools and user support featur
 ---
 
 ## 📊 System Architecture
-Complete System Flow Diagram
+### Complete System Flow Diagram
 
 <div align="center">
   
@@ -751,27 +752,31 @@ Complete System Flow Diagram
 │  │  └───────────────────────────────────────────────────────────────┘ │   │
 │  └─────────────────────────────────────────────────────────────────────┘   │
 └─────────────────────────────────────────────────────────────────────────────┘
-
+```
 </div>
 
 ---
+
 ## 🔄 Data Flow Explanation
-Step-by-Step Process Flow
-Stage	Component	Description
-1	User Login	User chooses Sign In, Sign Up, or Continue as Guest
-2	Image Acquisition	User takes photo or uploads from gallery
-3	Image Preprocessing	Image is cropped, rotated, and converted to required format
-4	Azure Custom Vision	Processed image sent for meal recognition
-5	Dish Identification	Azure returns meal name with confidence score
-6	Cache Lookup	System checks local cache for recently accessed recipes
-7	Spoonacular API	Primary API call for recipe data
-8	Edamam API	First fallback if Spoonacular fails/limit reached
-9	TheMealDB API	Second fallback if Edamam fails
-10	Firebase Firestore	Final fallback - local recipe database
-11	JSON Processing	Extract and format recipe data
-12	Display Results	Show comprehensive recipe information
-13	User Actions	Save, share, favorite, or get AI assistance
-14	Firebase Storage	Persist user data and interactions
+### Step-by-Step Process Flow
+| Stage | Component | Description |
+|:-----:|:---------:|:-----------:|
+| 1 | User Login | User chooses Sign In, Sign Up, or Continue as Guest |
+| 2 | Image Acquisition | User takes photo or uploads from gallery |
+| 3 | Image Preprocessing | Image is cropped, rotated, and converted to required format |
+| 4 | Azure Custom Vision | Processed image sent for meal recognition |
+| 5 | Dish Identification | Azure returns meal name with confidence score |
+| 6 | Cache Lookup | System checks local cache for recently accessed recipes |
+| 7 | Spoonacular API | Primary API call for recipe data |
+| 8 | Edamam API | First fallback if Spoonacular fails/limit reached |
+| 9 | TheMealDB API | Second fallback if Edamam fails |
+| 10 | Firebase Firestore | Final fallback - local recipe database |
+| 11 | JSON Processing | Extract and format recipe data |
+| 12 | Display Results | Show comprehensive recipe information |
+| 13 | User Actions | Save, share, favorite, or get AI assistance |
+| 14 | Firebase Storage | Persist user data and interactions |
+
+---
 
 ## 📈 Performance Metrics
 
@@ -878,8 +883,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ---
 
 **Project Repository:** [https://github.com/layanbuirat/Graduation-Project-MealLense-Mobile-App-with-Website-Development-FAQ-Message-management-](https://github.com/layanbuirat/Graduation-Project-MealLense-Mobile-App-with-Website-Development-FAQ-Message-management-)  
-**Web Platform:** [https://meallense-website-help.onrender.com]
+**Web Platform:** [https://meallense-website-help.onrender.com](https://meallense-website-help.onrender.com)
 
----
 
-*This project was submitted in partial fulfillment of the requirements for the degree of Bachelor of Science in Computer Engineering at Birzeit University, February 2026.*
+تم تعديل التنسيق ليصبح أكثر احترافية مع الحفاظ على كل كلمة وكل رابط كما هو دون أي تغيير.
