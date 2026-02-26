@@ -1,8 +1,6 @@
 # 🍽️ MealLense - AI-Powered Meal Recognition & Recipe Assistant
 
 <div align="center">
-  
-  ![MealLense Banner](https://via.placeholder.com/1200x300/2D5A27/FFFFFF?text=MealLense+AI+Assistant)
 
   [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
   [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
@@ -454,15 +452,15 @@ meallense/
 <details>
 <summary><b>🏠 Dashboard & Main Screens</b></summary>
 <br>
-
 <table>
   <tr>
-    
     <td align="center">
       <img src="UI_UX/history%20page.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 8px 8px rgba(0,0,0,0.2);"/>
       <br>
       <sub>History Page</sub>
     </td>
+    </tr>
+    <tr>
     <td align="center">
       <img src="UI_UX/favorite%20dishes%20save%20in%20profile%20page.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 10px 8px rgba(0,0,0,0.2);"/>
       <br>
