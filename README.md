@@ -489,11 +489,16 @@ meallense/
       <br>
       <sub>Results Page</sub>
     </td>
+</tr>
+  <tr>
+
     <td align="center">
       <img src="UI_UX/result%20of%20Tabula%20salad.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
       <br>
       <sub>Tabula Salad Result</sub>
     </td>
+    </tr>
+  <tr>
     <td align="center">
       <img src="UI_UX/result%20of%20Quinoa%20Tabula%20salad.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
       <br>
@@ -507,6 +512,8 @@ meallense/
       <br>
       <sub>Ingredients & Quantities</sub>
     </td>
+    </tr>
+  <tr>
     <td align="center">
       <img src="UI_UX/result%20of%20preparation%20steps%20Quinoa%20Tabula%20salad.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
       <br>
