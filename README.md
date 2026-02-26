@@ -11,7 +11,7 @@
   
   **Bridging the gap between food discovery and meal preparation with cutting-edge AI**
 
-  [📱 Download App](#-installation--setup) • [🌐 Web Platform](https://meallense-website-help.onrender.com) • [📄 Documentation](#-project-structure) • [🎥 Demo Gallery](#-demo-gallery)
+  [🌐 Web Platform](https://meallense-website-help.onrender.com) • [📄 Documentation](#-project-structure) • [🎥 Demo Gallery](#-demo-gallery)
 
 </div>
 
@@ -457,33 +457,25 @@ meallense/
 
 <table>
   <tr>
+    
     <td align="center">
-      <img src="UI_UX/dashporf%20of%20user%20has%20account%20in%20MealLense.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>User Dashboard</sub>
-    </td>
-    <td align="center">
-      <img src="UI_UX/history%20page.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <img src="UI_UX/history%20page.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 8px 8px rgba(0,0,0,0.2);"/>
       <br>
       <sub>History Page</sub>
     </td>
     <td align="center">
-      <img src="UI_UX/favorite%20dishes%20save%20in%20profile%20page.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <img src="UI_UX/favorite%20dishes%20save%20in%20profile%20page.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 10px 8px rgba(0,0,0,0.2);"/>
       <br>
       <sub>Favorites Page</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="UI_UX/Admin%20settings.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <img src="UI_UX/Admin%20settings.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 10px 8px rgba(0,0,0,0.2);"/>
       <br>
       <sub>Admin Settings</sub>
     </td>
-    <td align="center" colspan="2">
-      <img src="UI_UX/WhatsApp%20Image%202026-02-08%20at%206.48.37%20PM%20(1).jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Dashboard Overview</sub>
-    </td>
+   
   </tr>
 </table>
 </details>
@@ -511,11 +503,7 @@ meallense/
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="UI_UX/result%20Nutrition%20facts%20%26%20detailed%20Nutrition%20of%20Quinoa%20Tabula%20salad.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Nutrition Facts</sub>
-    </td>
+    
     <td align="center">
       <img src="UI_UX/result%20of%20ingredients%20%26%20Quantities%20Quinoa%20Tabula%20salad.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
       <br>
@@ -533,58 +521,12 @@ meallense/
       <br>
       <sub>Detailed Steps</sub>
     </td>
-    <td align="center">
-      <img src="UI_UX/resueit%20after%20uploade%20lasagne.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Lasagne Result</sub>
-    </td>
-    <td align="center">
-      <img src="UI_UX/upload%20lasagne%20recipe.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Upload Lasagne</sub>
-    </td>
+    
   </tr>
-  <tr>
-    <td align="center">
-      <img src="UI_UX/upload%20another%20recipe.jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Upload Another Recipe</sub>
-    </td>
-    <td align="center" colspan="2">
-      <img src="UI_UX/WhatsApp%20Image%202026-02-08%20at%206.48.37%20PM%20(2).jpeg" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Recipe Details</sub>
-    </td>
-  </tr>
+ 
 </table>
 </details>
 
-<details>
-<summary><b>🌐 Website Interface</b></summary>
-<br>
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="UI_UX/website%20of%20MealSense%20home%20page.jpeg" width="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Home Page</sub>
-    </td>
-    <td align="center">
-      <img src="UI_UX/website%20of%20Meallense%20ask%20FAQ%20page.jpeg" width="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>FAQ Page</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="UI_UX/website%20Admin%20dashboard%20to%20manage%20messages%20%26%20FAQ.jpeg" width="600" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-      <br>
-      <sub>Admin Dashboard</sub>
-    </td>
-  </tr>
-</table>
-</details>
 
 ---
 
