@@ -808,7 +808,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 [![Birzeit University](https://img.shields.io/badge/Birzeit_University-003366?style=for-the-badge&logo=university&logoColor=white)](https://www.birzeit.edu/)
 
-**© 2026 MealLense Team | All Rights Reserved**
+**© 2025/2026 MealLense Team | All Rights Reserved**
 
 **Rana Musa · Layan Burait · Haneen Odeh**  
 *Supervised by Dr. Yazan Abu Farha*
@@ -821,7 +821,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ---
 
 **Project Repository:** [https://github.com/layanbuirat/Graduation-Project-MealLense-Mobile-App-with-Website-Development-FAQ-Message-management-](https://github.com/layanbuirat/Graduation-Project-MealLense-Mobile-App-with-Website-Development-FAQ-Message-management-)  
-**Web Platform:** [https://meallense.onrender.com](https://meallense.onrender.com)
+**Web Platform:** [https://meallense-website-help.onrender.com])
 
 ---
 
