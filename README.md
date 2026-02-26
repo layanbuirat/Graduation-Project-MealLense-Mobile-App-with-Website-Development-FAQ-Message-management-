@@ -269,77 +269,89 @@ meallense/
 
 <div align="center">
   
-### 📱 Application Demo Videos
+### 📱 Comprehensive MealLense App Walkthrough
 
 </div>
 
 <table align="center">
   <tr>
-    <td align="center" colspan="2">
-      <h3>🛠️ Admin & Management Features</h3>
+    <td align="center" colspan="3">
+      <h3>🛠️ Admin Panel Management</h3>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h4>📊 Dataset Management & Feedback</h4>
+      <h4>📊 Managing Local Dataset, Feedback & User Statistics</h4>
       <img src="demo/Admin%20management%20localdataset%2C%20feedback%20%26%20show%20user%20statistics.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
       <br>
       <sub>📁 Admin management localdataset, feedback & show user statistics.gif</sub>
     </td>
     <td width="50%" align="center">
-      <h4>❓ FAQ & Message Management</h4>
+      <h4>❓ Managing FAQs & User Messages</h4>
       <img src="demo/Admin%20management%20FAQ%20%26%20Massage%20from%20users.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
       <br>
       <sub>📁 Admin management FAQ & Massage from users.gif</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
-      <h3>🍽️ Recipe & Meal Recognition</h3>
+    <td align="center" colspan="3">
+      <h3>🍽️ Meal Recognition & Recipe Display</h3>
     </td>
   </tr>
   <tr>
     <td width="33%" align="center">
-      <h4>🍖 Peas with Meat</h4>
+      <h4>🍖 Peas with Meat Dish</h4>
       <img src="demo/pease%20with%20meat.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
       <br>
       <sub>📁 pease with meat.gif</sub>
     </td>
     <td width="33%" align="center">
-      <h4>🍇 Waraq Enab</h4>
+      <h4>🍇 Stuffed Vine Leaves (Waraq Enab)</h4>
       <img src="demo/Waraq%20enab.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
       <br>
       <sub>📁 Waraq enab.gif</sub>
     </td>
-    <td width="33%" align="center">
-      <h4>📤 Recipe Upload</h4>
+     <td width="33%" align="center">
+      <h4>🥗 Stuffed Eggplant (Maqduse)</h4>
       <img src="demo/demo%20Uploada%20Lasagna%20recipe%2C%20Vegetable%20Pizza%20%26%20maqduse%20recipe.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
       <br>
-      <sub>📁 demo Uploada Lasagna recipe, Vegetable Pizza & maqduse recipe.gif</sub>
+      <sub>📁 demo Uploada Lasagna recipe, Vegetable Pizza & maqduse recipe.gif (Maqduse is shown here)</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
-      <h3>👤 User Profile & History</h3>
+    <td align="center" colspan="3">
+      <h3>👤 User Profile & History Management</h3>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h4>📜 History & Favorites</h4>
+      <h4>📜 Managing Search History & Favorite Meals</h4>
       <img src="demo/History%20%26%20favor%20manage%20user%20profile.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
       <br>
       <sub>📁 History & favor manage user profile.gif</sub>
     </td>
     <td width="50%" align="center">
-      <h4>✏️ Profile Management & Help</h4>
-      <img src="demo/edit%20user%20profile%20%26%20use%20help%20link%20of%20website%20Meallense%20%26%20uploade%20Fa...gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <h4>✏️ Editing Profile & Uploading a New Recipe</h4>
+      <img src="demo/edit%20user%20profile%20%26%20use%20help%20link%20of%20website%20MealLense%20%26%20uploade%20Fa...gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
       <br>
-      <sub>📁 edit user profile & use help link of website Meallense & uploade Fa...gif</sub>
+      <sub>📁 edit user profile & use help link of website MealLense & uploade Fa...gif</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <h3>📤 Uploading New Recipes</h3>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <h4>🍝 Uploading Recipes for Lasagna, Vegetable Pizza, and Maqduse</h4>
+      <img src="demo/demo%20Uploada%20Lasagna%20recipe%2C%20Vegetable%20Pizza%20%26%20maqduse%20recipe.gif" width="50%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2));"/>
+      <br>
+      <sub>📁 demo Uploada Lasagna recipe, Vegetable Pizza & maqduse recipe.gif</sub>
     </td>
   </tr>
 </table>
-
----
+----
 
 ## 🖼️ UI/UX Design Gallery
 
