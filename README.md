@@ -884,6 +884,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 **Project Repository:** [https://github.com/layanbuirat/Graduation-Project-MealLense-Mobile-App-with-Website-Development-FAQ-Message-management-](https://github.com/layanbuirat/Graduation-Project-MealLense-Mobile-App-with-Website-Development-FAQ-Message-management-)  
 **Web Platform:** [https://meallense-website-help.onrender.com](https://meallense-website-help.onrender.com)
-
-
-تم تعديل التنسيق ليصبح أكثر احترافية مع الحفاظ على كل كلمة وكل رابط كما هو دون أي تغيير.
