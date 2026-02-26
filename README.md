@@ -412,8 +412,6 @@ meallense/
 
 <div align="center">
 
-#### User Dashboard
-<img src="UI_UX/dashporf%20of%20user%20has%20account%20in%20MealLense.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
 
 #### History Page
 <img src="UI_UX/history%20page.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
@@ -456,36 +454,6 @@ meallense/
 
 #### Detailed Steps
 <img src="UI_UX/result%20of%20preparation%20steps%20of%20Quinoa%20Tabula%20salad.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
-
-#### Lasagne Result
-<img src="UI_UX/resueit%20after%20uploade%20lasagne.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
-
-#### Upload Lasagne
-<img src="UI_UX/upload%20lasagne%20recipe.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
-
-#### Upload Another Recipe
-<img src="UI_UX/upload%20another%20recipe.jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
-
-#### Recipe Details
-<img src="UI_UX/WhatsApp%20Image%202026-02-08%20at%206.48.37%20PM%20(2).jpeg" width="400" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
-
-</div>
-</details>
-
-<details>
-<summary><b>🌐 Website Interface</b></summary>
-<br>
-
-<div align="center">
-
-#### Home Page
-<img src="UI_UX/website%20of%20MealSense%20home%20page.jpeg" width="600" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
-
-#### FAQ Page
-<img src="UI_UX/website%20of%20Meallense%20ask%20FAQ%20page.jpeg" width="600" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
-
-#### Admin Dashboard
-<img src="UI_UX/website%20Admin%20dashboard%20to%20manage%20messages%20%26%20FAQ.jpeg" width="800" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 15px;"/>
 
 </div>
 </details>
